@@ -16,4 +16,5 @@ a Java Project for Takeout System
 后端代码结构：  
    common：子模块，存放公共类，如工具类、常量类、异常类  
    pojo：子模块，存放实体类、VO、DTO  
+   ![image](https://github.com/user-attachments/assets/937ce776-c59a-46a5-92a6-4921e1b5a672)  
    server:子模块，后端服务，存放配置文件、controller、service、mapper  
