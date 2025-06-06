@@ -13,3 +13,7 @@ a Java Project for Takeout System
    数据层：数据库、持久层框架、分页等
    工具：git，maven等  
 ![image](https://github.com/user-attachments/assets/8ac89fcb-a165-4b8b-a931-1c6660637314)
+后端代码结构：  
+   common：子模块，存放公共类，如工具类、常量类、异常类  
+   pojo：子模块，存放实体类、VO、DTO  
+   server:子模块，后端服务，存放配置文件、controller、service、mapper  
