@@ -18,3 +18,6 @@ a Java Project for Takeout System
    pojo：子模块，存放实体类、VO、DTO  
    ![image](https://github.com/user-attachments/assets/937ce776-c59a-46a5-92a6-4921e1b5a672)  
    server:子模块，后端服务，存放配置文件、controller、service、mapper  
+前后端联调：  
+![image](https://github.com/user-attachments/assets/c98cb1b2-87d1-4541-94a6-5b802fa7a95e)
+
